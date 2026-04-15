@@ -34,12 +34,3 @@ The website showcases my skills, background, and provides a way to contact me.
 - **CSS** → Styling (Flexbox, Grid, Responsive Design)  
 - **JavaScript** → Interactivity & Form Validation  
 
----
-
-## 📂 Project Structure
-portfolio-website/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
